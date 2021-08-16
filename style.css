@@ -33,6 +33,10 @@ h2 {
     line-height: 1.2;
     margin: 10px 0;
 }
+.logo{
+    font-style: normal;
+    font-size: 60px;
+}
 
 p {
     margin:10px 0;
